@@ -1,0 +1,14 @@
+E:\U3DProj\PacMan\Temp\bin\Debug\Assembly-CSharp.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\U3DProj\PacMan\Temp\bin\Debug\UnityEditor.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\UnityEngine.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\UnityEngine.UI.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\Mono.Cecil.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\Unity.DataContract.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\U3DProj\PacMan\Temp\bin\Debug\Unity.CecilTools.dll
+E:\U3DProj\PacMan\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\U3DProj\PacMan\obj\Debug\Assembly-CSharp.dll
+E:\U3DProj\PacMan\obj\Debug\Assembly-CSharp.pdb
